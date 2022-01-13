@@ -1,0 +1,39 @@
+.img {
+    width: 150px;
+    height: 60px;
+}
+h1 {
+    color: red;
+}
+.main_text {
+    background: blue;
+    color: #fff;
+    width: 100px;
+}
+.text {
+    padding-top: 100px;
+}
+.text span {
+    color: red;
+}
+.whats_next {
+    background-color: rgba(5, 168, 5, 0.979);
+    color: #fff;
+}
+.skill {
+    background-color: rgba(5, 168, 5, 0.979);
+    color: #fff;
+    padding: 40px 20px; 
+    
+}
+.forms {
+text-align: center;
+}
+.list {
+    font-size: 20px;
+    border: 2px solid green;
+}
+.good_start {
+    background-color: rgba(5, 168, 5, 0.979);
+    color: white; 
+}  
